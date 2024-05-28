@@ -1,2 +1,2 @@
 # techNotes
-Example app following the MERN stack. Based on Dave Gray's YouTube series
+Example app using the MERN stack.
