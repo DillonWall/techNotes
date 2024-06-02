@@ -1,2 +1,2 @@
-# techNotes
-Example app using the MERN stack.
+# Technotes Frontend
+Please view the frontend code as well at https://github.com/DillonWall/technotes_frontend
