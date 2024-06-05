@@ -1,4 +1,5 @@
 require("dotenv").config()
+// require("express-async-errors") // Future note: use this package instead of wrapping controller functions in asyncHandlers
 const express = require("express")
 const app = express()
 const path = require("path")
