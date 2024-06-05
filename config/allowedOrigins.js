@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    "http://localhost:3000"
+    process.env.WEBSITE_BASE_URL
     // "https://www.dandrepairshop.com" or whatever hostname allowed to access the API
 ]
 

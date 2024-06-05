@@ -10,7 +10,7 @@ const cors = require("cors")
 const corsOptions = require("./config/corsOptions")
 const connectDB = require("./config/dbConn")
 const mongoose = require("mongoose")
-const PORT = process.env.PORT || process.env.DEV_PORT
+const PORT = process.env.API_PORT
 
 console.log(process.env.NODE_ENV)
 
